@@ -5,7 +5,7 @@
   background-image: url('./background_search_desktop.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 25rem;
+  height: 30rem;
 }
 
 .SearchBar-sort-options ul {
@@ -64,7 +64,7 @@
 .SearchBar-submit a {
   border-radius: 4px;
   padding: .72rem 1.7rem;
-  background-color: #cca353;
+  background-color: #cca354;
   color: #ffffff;
   font-weight: 600;
   transition: background-color .5s;
