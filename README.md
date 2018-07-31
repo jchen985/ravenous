@@ -8,4 +8,6 @@ You can also sort the results of your searching by best matched, highest rated, 
 
 NOTE: the sorting option is currently down because there is an internal issuse on the Yelp api end. (Yelp fusion github of the issue is: https://github.com/Yelp/yelp-fusion/issues/435).
 
+🏁🏁🏁
+
 UPDATE: issues from Yelp is solved. Yelp github issue: https://github.com/Yelp/yelp-fusion/issues/435. 
